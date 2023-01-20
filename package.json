@@ -1,0 +1,27 @@
+{
+  "name": "web-programming-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Negarnbkhti42/web-programming-backend.git"
+  },
+  "keywords": [
+    "go",
+    "express",
+    "node"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Negarnbkhti42/web-programming-backend/issues"
+  },
+  "homepage": "https://github.com/Negarnbkhti42/web-programming-backend#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
